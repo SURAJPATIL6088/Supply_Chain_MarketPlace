@@ -73,7 +73,7 @@ export const TrackingProvider = ({ children }) => {
     }
   };
 
-  const getShipment = async () => {
+  const getShipmentsCount = async () => {
     try {
       if (!window.ethereum) return "Please Install MetaMask";
 
