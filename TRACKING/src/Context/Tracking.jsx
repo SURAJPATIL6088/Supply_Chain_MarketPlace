@@ -4,7 +4,7 @@ import { ethers } from "ethers";
 
 // INTERNAL IMPORTS
 // this file generated when we run the hardhat it generate in the artifacts folder
-import tracking from "../Context/Tracking.json";
+import tracking from "./Tracking.json";
 // this contract address will get from the when we run the hardhat it generate full information
 const ContractAddress = "0x5fbdb2315678afecb367f032d93f642f64180aa3";
 

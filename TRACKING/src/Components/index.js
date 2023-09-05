@@ -1,6 +1,6 @@
 // IMPORT ALL THE COMPONENTS THAT ARE PRESENT IN THESE FOLDER
 import Footer from "./Footer";
-import Table from "./Table";
+import Table from "./Table"
 import NavBar from "./NavBar";
 import Form from "./Form";
 import Services from "./Services";
@@ -20,8 +20,8 @@ import Str1 from "./SVG/Str1";
 // EXPORT ALL THE COMPONENTS
 export {
     Footer,
-    Table,
     NavBar,
+    Table,
     Form,
     Services,
     Profile,
