@@ -30,7 +30,7 @@ const Footer = () => {
           <div className='space-y-6'>
             <img src='https://www.floatui.com/logo.svg' className='w-32' />
             <p className='max-w-md'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque nesciunt eum, incidunt illum facilis iure.
+            Blockchain-Enabled Supply Chain: Elevating Transparency, Traceability, and Security for Optimal Efficiency and Authenticity.
             </p>
             <ul className='flex flex-wrap items-center gap-4 text-sm sm:text-base'>
               {footerNavs.map((item, idx) => (
